@@ -12,3 +12,14 @@
   color: white;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
+
+.aside-fixed {
+  position: fixed;
+  top: 6rem;
+  /* Adjust for navigation bar */
+  right: 1rem;
+  width: 10rem;
+  background-color: #f8f9fa;
+  border-left: 2px solid #ddd;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+}
